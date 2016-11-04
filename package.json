@@ -21,6 +21,9 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes/issues"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "homepage": "https://github.com/learn-co-curriculum/creating-and-inserting-dom-nodes#readme",
   "devDependencies": {
     "chai": "^3.5.0",
